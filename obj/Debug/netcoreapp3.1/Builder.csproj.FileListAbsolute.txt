@@ -1,0 +1,13 @@
+C:\Users\shira\Desktop\Ori\DesignPatterns\Creatonal\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+C:\Users\shira\Desktop\Ori\DesignPatterns\Creatonal\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+C:\Users\shira\Desktop\Ori\DesignPatterns\Creatonal\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+C:\Users\shira\Desktop\Ori\DesignPatterns\Creatonal\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+C:\Users\shira\Desktop\Ori\DesignPatterns\Creatonal\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+C:\Users\shira\Desktop\Ori\DesignPatterns\Creatonal\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\shira\Desktop\Ori\DesignPatterns\Creatonal\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+C:\Users\shira\Desktop\Ori\DesignPatterns\Creatonal\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+C:\Users\shira\Desktop\Ori\DesignPatterns\Creatonal\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+C:\Users\shira\Desktop\Ori\DesignPatterns\Creatonal\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+C:\Users\shira\Desktop\Ori\DesignPatterns\Creatonal\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+C:\Users\shira\Desktop\Ori\DesignPatterns\Creatonal\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\shira\Desktop\Ori\DesignPatterns\Creatonal\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache
